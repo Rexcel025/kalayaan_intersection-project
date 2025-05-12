@@ -39,10 +39,12 @@ Traffic congestion is a major concern in urban areas like Quezon City, particula
 | Avg Duration (s)      | 161.00          | 63.3             |             |
 | Congestion Percentage | 67.60%          | 22.37%           | -66.91%      |
 
-(Include your actual values from tripinfo\_data.csv files.)
+
 
 Graphs:
 ![image](https://github.com/user-attachments/assets/e7b42b47-4846-45ce-b200-41b972dc1e95)
+![image](https://github.com/user-attachments/assets/a62f6ce1-b32f-46a3-9065-05944a6e7a7c)
+![image](https://github.com/user-attachments/assets/81c62936-5b62-422d-b7e8-91cb6c9fcd49)
 
 
 
