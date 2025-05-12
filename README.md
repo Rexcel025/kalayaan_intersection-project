@@ -42,9 +42,9 @@ Traffic congestion is a major concern in urban areas like Quezon City, particula
 (Include your actual values from tripinfo\_data.csv files.)
 
 Graphs:
+![image](https://github.com/user-attachments/assets/e7b42b47-4846-45ce-b200-41b972dc1e95)
 
-* Bar chart comparing Congestion %.
-* Line or bar graph showing average waiting time comparison.
+
 
 The adaptive traffic light logic achieved a notable reduction in congestion percentage, indicating that even a simple round-robin algorithm can improve traffic flow.
 
